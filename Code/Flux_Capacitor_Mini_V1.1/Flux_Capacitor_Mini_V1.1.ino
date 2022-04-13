@@ -75,11 +75,6 @@ byte speed1_val;
 byte speed2_val;
 byte brightness1_val;
 byte brightness2_val;
-
-//-----------------------------//
-
-int buttonState = 1;      //Button state while not being pressed. When pressed pulls pin to GND.
-
 byte startup;
 byte startUpState;
 byte startUpMode;
@@ -87,6 +82,8 @@ byte main_animationSequence;
 byte flash_animationSequence;
 byte animationSpeed;
 byte ledBrightness;
+
+int buttonState = 1;      //Button state while not being pressed. When pressed pulls pin to GND.
 
 void setup() {     
 
@@ -112,7 +109,7 @@ void setup() {
         EEPROM.write(1, startUpState);
     } 
 
-    //CONFIGURE YOUR EEPROM ONCE. THEN UNCOMMENT LINES BELOW AND REPROGRAM.
+    //CONFIGURE YOUR EEPROM ONCE. THEN COMMENT LINES BELOW AND REPROGRAM.
     EEPROM.write(1, 1);
     EEPROM.write(11, 0);
     EEPROM.write(12, 0);
@@ -832,7 +829,7 @@ void morseCode_O() {
     delay(300*delayVal);
 }
 
-void checkButton(){
+void checkButton() {
     buttonState = digitalRead(button);
     if(buttonState == 0){
         if(flash_animationSequence == 0){
