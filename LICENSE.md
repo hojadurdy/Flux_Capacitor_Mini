@@ -1,4 +1,4 @@
-# CC-BY-NC-SA-4.0
+# CC BY-NC-SA 4.0
 ## Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 
 Creative Commons Corporation ("Creative Commons") is not a law firm and
