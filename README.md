@@ -1,5 +1,7 @@
 # Flux Capacitor Mini
 
+![LED Numbers](/Images/Featured/Flux_Capacitor_Mini_Front_Standing.png)
+
 ### WHAT IS IT?
 A miniature version of Flux Capacitor from the movie trilogy Back to the Future. Measuring at only 48mm x 38mm (1.89in x 1.5in), it can be easily pocketable . It is constructed with high quality 3D printed frame, sandwiched between stacked Gold Plated PCBs. Featuring 24 LEDs, diffused through bare FR4 material, that animate to create the “fluxxing” effect. It’s 100% decorative, it doesn’t actually let you travel through time. But let's not lose hope. Maybe in the future.
 
@@ -56,12 +58,6 @@ LIR2032 (Rechargeable) with average of 40mAh battery capacity.
 
 ### WHAT MAKES THIS DEVICE SPECIAL?
 First of all, the gold plating on the PCB makes it look luxurious. You can wear it around your neck with an ID card strap, hang it on your keychain or... you can place it on your car's dashboard and try and see if the time travel is possible while you're driving at 88mph. Time travel at your own RISK! If you stuck in unknown territories of time, try turning on the SOS mode of the Flux Capacitor (Animation 5 or 101 LED combination). Help may or may not arrive. NO GUARANTEES. 
-
-### WHAT IS INCLUDED IN YOUR PURCHASE?
-- 1x Front Panel. 3 Stacked PCB, with 24 LEDs and All the Electronics Soldered on
-- 1x 3D Printed Frame of Your Selection
-- 4x M2.5x4mm Screws
-- 1x Back Cover PCB
 
 ![Teardown](/Images/Featured/Flux_Capacitor_Mini_Teardown.png)
 
