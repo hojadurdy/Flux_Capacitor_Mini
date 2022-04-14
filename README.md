@@ -25,6 +25,10 @@ You don't have to remember these. There is a QR code on the interior side of bac
 To change the LED state, while in Settings Mode, hold the "Start/Set" button. All the LEDs should be turned on very dimly and second after that, starting from LED1 each individual LED gets fully lit. Hold the "Start/Set" button until the fully lit LED reaches the one you want to change. When you change the LED state, if the LED is already set on, it turns off (or dimly lit). If it's at off state (or dimly lit) then it turns on at full brightness. 
 If all of this feels complicated to you then I can program the Flux Capacitor with older much simpler version of the firmware by your request. But the older firmware has less functionality. Check it **[HERE](https://www.youtube.com/watch?v=2X2gqoI-mSA)**
 
+You don't have to remember these. There is a QR code on the interior side of back cover PCB. Scan it and it will take you to this page.
+
+![Settings](/Images/Featured/Flux_Capacitor_Mini_Back_Cover.png)
+
 Below, all of the LED animations and their LED setting combinations are shown. Also animation patterns might seem different when you run them at different speeds.
 
 https://user-images.githubusercontent.com/43648325/163351795-e4758084-3ac4-411a-833b-632b1832e1c3.mov
